@@ -1,7 +1,6 @@
 Algo que hago por aqui
 
-Es un archivo de texto comun
+Es un archivo de texto comun, pero ahora es más largo
+y con más lineas esto no me ayuda
 
-Mañana nos enfocaremos en su vida laboral.
-
-Esto es un nuevo cambio jeje
+De tres lineas en total
