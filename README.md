@@ -1,2 +1,2 @@
-# hyperblog
+# hyper
 Un blog
